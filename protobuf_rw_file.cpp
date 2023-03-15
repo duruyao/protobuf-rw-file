@@ -8,7 +8,7 @@
 #include <cstdio>
 #include <string>
 
-#include "pb_rw_file.pb.h"
+#include "protobuf_rw_file.pb.h"
 
 const int BUFF_SIZE = (UINT16_MAX << 8) + 2; // 16 M + 1
 

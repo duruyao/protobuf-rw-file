@@ -20,5 +20,5 @@ cmake --build build --target install
 Read a file into protobuf messages and write protobuf messages to another file.
 
 ```shell
-$ ./pb_rw_file photo.jpg photo-copy.jpg
+$ ./protobuf_rw_file photo.jpg photo-copy.jpg
 ```
