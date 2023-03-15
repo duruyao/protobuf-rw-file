@@ -1,4 +1,4 @@
-# Protocol Buffers Example of Reading/Writing Files
+# Protocol Buffers Example of Saving/Loading Files
 
 ## 1. Prerequisites
 
