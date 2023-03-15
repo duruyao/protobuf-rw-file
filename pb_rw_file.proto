@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PBFile {
+  uint64 data_size = 1;
+  bytes  data_buff = 2;
+}
