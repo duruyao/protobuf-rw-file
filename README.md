@@ -7,12 +7,6 @@
 
 ## 2. Unix Builds
 
-Launch a docker image if your development environment is incomplete.
-
-```shell
-docker run -it --rm -v $(realpath $PWD):$PWD -w $PWD duruyao/tvm.ci_cpu bash
-```
-
 Use CMake to build targets.
 
 ```shell
